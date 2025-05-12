@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 // Klassendefinition des Kunden
 class Kunde{
 	constructor(){
